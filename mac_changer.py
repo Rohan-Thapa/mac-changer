@@ -56,3 +56,5 @@ if __name__ == '__main__':
 		print(f"[+] MAC address changed to {options.new_mac} successfully.")
 	else:
 		print("MAC address did not get changed.")
+
+# This code is just the testing code and I'm not sure does it works or not as I was just going with the flow and due the Thesis I couldn't even test it.
